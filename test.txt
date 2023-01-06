@@ -1,4 +1,2 @@
 Hello add some changes in file
 adding line1
-adding line2
-adding line3
